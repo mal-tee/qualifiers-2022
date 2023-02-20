@@ -48,7 +48,7 @@ docker run -p <port>:<port> -d <name_docker>
 ```
 
 `<name_docker>` ist der frei wählbare Name des Containers
-`<port>` ist der Port der üblicherweise in Dateien wie `challenge.txt` oder `setup_socket.sh` zu finden ist.
+`<port>` ist der Port der Challenge, der üblicherweise in Dateien wie `challenge.txt` oder `setup_socket.sh` zu finden ist.
 
 Nun kann man sich via Localhost und `<port>` mit der Challenge z.B. via Browser oder Netcat verbinden.
 
