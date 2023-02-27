@@ -1,4 +1,4 @@
-# Deutchlands Bester Hacker - Qualifiers 2022
+# Deutschlands Bester Hacker - Qualifiers 2022
 
 ![Logo](https://deutschlands-bester-hacker.de/wp-content/uploads/2022/02/DBH_Logo_2022_new.png)
 
